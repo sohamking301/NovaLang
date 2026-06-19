@@ -81,6 +81,15 @@ For permissions, licensing requests, commercial usage, collaborations, feature i
 
 **GitHub:** https://github.com/sohamladdha1530/NovaLang
 
+## Enforcement
+
+Any unauthorized reproduction, distribution,
+modification, commercial use, or copyright
+infringement of NovaLang may result in legal
+action, including but not limited to DMCA
+takedown requests, cease-and-desist notices,
+and claims for damages where permitted by law.
+
 ## Copyright
 
 Copyright © 2026 Soham Laddha
